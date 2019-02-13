@@ -1,0 +1,4 @@
+               BCT074 Departmental Store
+Sno Particulars         Quantity  Price Sub total 
+1   Soap                5         90    450       
+total                             450       
